@@ -1,5 +1,5 @@
 const fs=require('fs'),vm=require('vm'),assert=require('assert');let now=0;const nodes={app:{innerHTML:'',addEventListener(){}},'print-area':{innerHTML:''},brand:{addEventListener(){}}};const context={window:{SITUATIONAL:JSON.parse(fs.readFileSync(__dirname+'/bank.json')),scrollTo(){},print(){}},document:{getElementById:id=>nodes[id]||null},performance:{now:()=>now},setInterval:()=>1,clearInterval(){},console};vm.createContext(context);vm.runInContext(fs.readFileSync(__dirname+'/app.js','utf8'),context);const run=s=>vm.runInContext(s,context);
-assert(nodes.app.innerHTML.includes('10 simulări'));
+assert(nodes.app.innerHTML.includes('20 simulări'));
 run('start(1)');assert(!nodes.app.innerHTML.includes('Varianta corectă:'));assert(!nodes.app.innerHTML.includes('extrasul justificativ'));
 run('state.answers=state.items.map(q=>q.answer)');now=120000;run('finish()');assert.equal(run('score().grade'),10);assert.equal(run('elapsed()'),120);now=200000;assert.equal(run('elapsed()'),120);
 run('start(1)');assert.equal(run('state.answers.every(a=>a===null)'),true);
@@ -8,3 +8,5 @@ run('start(2);state.answers[0]=state.items[0].answer;state.revealed[0]=true;rend
 run('start(3)');now+=3600001;run('tick()');assert.equal(run('state.finished'),true);assert.equal(run('score().blank'),20);assert.equal(run('elapsed()'),3600);
 run('printTest(1)');assert.equal((nodes['print-area'].innerHTML.match(/<section>/g)||[]).length,20);assert(!nodes['print-area'].innerHTML.includes('Varianta corectă'));assert(!nodes['print-area'].innerHTML.includes('blockquote'));
 run('home();start(1)');assert.equal(run('state.answers.every(x=>x===null)'),true);console.log('PASS: hidden solutions, scoring 10/7, fresh retry, source reveal, timeout, frozen time, print 20 without solutions.');
+
+run("resourceSelection=['R'];practiceCount=30;practice()");assert.equal(run('state.items.length'),30);assert.equal(run("state.items.every(q=>q.theme==='R')"),true);assert.equal(run('new Set(state.items.map(q=>q.id)).size'),30);console.log('PASS: resource-only custom practice, 30 distinct items.');

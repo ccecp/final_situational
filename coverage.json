@@ -1,0 +1,710 @@
+{
+  "newTests": [
+    11,
+    20
+  ],
+  "newLegislativeItems": 100,
+  "note": "Legea: articole nefolosite în seria I. ROFUIP: articole nefolosite, cu excepția art.94, unde este evaluată interdicția absenței ca mijloc de coerciție, distinctă de plafonul motivării din seria I. Nu reprezintă acoperirea integrală a legislației.",
+  "items": [
+    {
+      "id": "L51",
+      "resource": "L",
+      "locator": "Art. 3 lit. c)",
+      "aspect": "principiul relevanței",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L52",
+      "resource": "L",
+      "locator": "Art. 5",
+      "aspect": "obligatorie pentru toți",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L53",
+      "resource": "L",
+      "locator": "Art. 9",
+      "aspect": "minorilor apatrizi",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L54",
+      "resource": "L",
+      "locator": "Art. 12 alin. (1)",
+      "aspect": "autorizate să funcționeze provizoriu",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L55",
+      "resource": "L",
+      "locator": "Art. 15 alin. (3)",
+      "aspect": "durata învățământului este de 5 ani",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L56",
+      "resource": "L",
+      "locator": "Art. 17 alin. (2)",
+      "aspect": "mai mult de 4 ani",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L57",
+      "resource": "L",
+      "locator": "Art. 19 alin. (2)",
+      "aspect": "două etape",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L58",
+      "resource": "L",
+      "locator": "Art. 20 alin. (1)",
+      "aspect": "indiferent dacă persoana",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L59",
+      "resource": "L",
+      "locator": "Art. 22 alin. (2)",
+      "aspect": "cel puțin 15 ani",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L60",
+      "resource": "L",
+      "locator": "Art. 26 alin. (2)",
+      "aspect": "Aprobarea alternativelor",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L61",
+      "resource": "L",
+      "locator": "Art. 27 alin. (2)",
+      "aspect": "sunt identice",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L62",
+      "resource": "L",
+      "locator": "Art. 28 alin. (4)",
+      "aspect": "au valoarea",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L63",
+      "resource": "L",
+      "locator": "Art. 30 alin. (3)",
+      "aspect": "ludotecă",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L64",
+      "resource": "L",
+      "locator": "Art. 31 alin. (5)",
+      "aspect": "maximum un an",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L65",
+      "resource": "L",
+      "locator": "Art. 32 alin. (4)",
+      "aspect": "nu dețin clase de nivel primar",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L66",
+      "resource": "L",
+      "locator": "Art. 33 alin. (3)-(5)",
+      "aspect": "minimum 2/3",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L67",
+      "resource": "L",
+      "locator": "Art. 35 alin. (8) lit. b)",
+      "aspect": "nu se pot limita opțiunile",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L68",
+      "resource": "L",
+      "locator": "Art. 46 alin. (1) lit. b)",
+      "aspect": "testării aptitudinilor specifice",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L69",
+      "resource": "L",
+      "locator": "Art. 63 alin. (2)",
+      "aspect": "se aprobă de prefect",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L70",
+      "resource": "L",
+      "locator": "Art. 65 alin. (8)",
+      "aspect": "suspiciunea comiterii unei infracțiuni",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L71",
+      "resource": "L",
+      "locator": "Art. 66 alin. (4)",
+      "aspect": "cu excepția vestiarelor",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L72",
+      "resource": "L",
+      "locator": "Art. 66 alin. (6) lit. d)",
+      "aspect": "30 de zile",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L73",
+      "resource": "L",
+      "locator": "Art. 66 alin. (6) lit. e)",
+      "aspect": "evaluării profesionale",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L74",
+      "resource": "L",
+      "locator": "Art. 66 alin. (9)-(10)",
+      "aspect": "numai prin vizualizarea",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L75",
+      "resource": "L",
+      "locator": "Art. 67 alin. (2)",
+      "aspect": "totalitatea beneficiarilor primari",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L76",
+      "resource": "L",
+      "locator": "Art. 68 alin. (5)",
+      "aspect": "metode psihopedagogice specifice",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L77",
+      "resource": "L",
+      "locator": "Art. 69 alin. (3)",
+      "aspect": "sprijin special de nivel I",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L78",
+      "resource": "L",
+      "locator": "Art. 70 alin. (4)",
+      "aspect": "sunt gratuite",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L79",
+      "resource": "L",
+      "locator": "Art. 71 alin. (1)",
+      "aspect": "până la 3 ani",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L80",
+      "resource": "L",
+      "locator": "Art. 72 alin. (4)",
+      "aspect": "oricând în timpul anului școlar",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L81",
+      "resource": "L",
+      "locator": "Art. 73 alin. (1)",
+      "aspect": "din oficiu, obligatoriu",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L82",
+      "resource": "L",
+      "locator": "Art. 74 alin. (3)",
+      "aspect": "pe baza unei analize de nevoi",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L83",
+      "resource": "L",
+      "locator": "Art. 75 alin. (5)",
+      "aspect": "pe durata vacanței școlare",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L84",
+      "resource": "L",
+      "locator": "Art. 76 alin. (2)",
+      "aspect": "program de studiu adaptat",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L85",
+      "resource": "L",
+      "locator": "Art. 79 alin. (3)-(5)",
+      "aspect": "statutului socioeconomic",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L86",
+      "resource": "L",
+      "locator": "Art. 82 alin. (2)",
+      "aspect": "sunt gratuite",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L87",
+      "resource": "L",
+      "locator": "Art. 83 alin. (1)",
+      "aspect": "clasa a II-a",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L88",
+      "resource": "L",
+      "locator": "Art. 89 alin. (3)",
+      "aspect": "25%",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L89",
+      "resource": "L",
+      "locator": "Art. 90 alin. (1)",
+      "aspect": "dezvoltarea fizică, cognitivă, emoțională și socială",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L90",
+      "resource": "L",
+      "locator": "Art. 91 lit. d)",
+      "aspect": "siguranță pe internet",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L91",
+      "resource": "L",
+      "locator": "Art. 92 alin. (3)",
+      "aspect": "cel puțin 2 ore",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L92",
+      "resource": "L",
+      "locator": "Art. 93 alin. (3)",
+      "aspect": "din lista celor aprobate",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L93",
+      "resource": "L",
+      "locator": "Art. 96 alin. (1) lit. a)",
+      "aspect": "nu se acordă note sau calificative",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L94",
+      "resource": "L",
+      "locator": "Art. 98 alin. (3)",
+      "aspect": "Recomandările sunt consultative",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L95",
+      "resource": "L",
+      "locator": "Art. 106 alin. (1) lit. h)",
+      "aspect": "maximum 15 zile lucrătoare",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L96",
+      "resource": "L",
+      "locator": "Art. 107 alin. (3)",
+      "aspect": "sancțiuni colective",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L97",
+      "resource": "L",
+      "locator": "Art. 209 alin. (2) lit. d)",
+      "aspect": "meditațiilor cu elevii de la propria clasă",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L98",
+      "resource": "L",
+      "locator": "Art. 210 alin. (1) lit. b)",
+      "aspect": "până la 15%",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L99",
+      "resource": "L",
+      "locator": "Art. 211 alin. (2)",
+      "aspect": "3-5 membri",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "L100",
+      "resource": "L",
+      "locator": "Art. 212 alin. (1)",
+      "aspect": "minimum 48 de ore",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R51",
+      "resource": "R",
+      "locator": "Art. 8",
+      "aspect": "altă unitate de învățământ",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R52",
+      "resource": "R",
+      "locator": "Art. 9",
+      "aspect": "31 august",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R53",
+      "resource": "R",
+      "locator": "Art. 10",
+      "aspect": "nu poate depăși 10 ore",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R54",
+      "resource": "R",
+      "locator": "Art. 11",
+      "aspect": "nu vor începe înainte de ora 8.00",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R55",
+      "resource": "R",
+      "locator": "Art. 13",
+      "aspect": "grupe eterogene",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R56",
+      "resource": "R",
+      "locator": "Art. 15",
+      "aspect": "continuitatea studiului limbilor moderne",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R57",
+      "resource": "R",
+      "locator": "Art. 17 alin. (1)",
+      "aspect": "reprezentarea unității",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R58",
+      "resource": "R",
+      "locator": "Art. 18 alin. (5)",
+      "aspect": "un alt membru",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R59",
+      "resource": "R",
+      "locator": "Art. 20 alin. (4)",
+      "aspect": "exclusiv prin act adițional",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R60",
+      "resource": "R",
+      "locator": "Art. 21 alin. (7)",
+      "aspect": "delega, prin decizie",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R61",
+      "resource": "R",
+      "locator": "Art. 23 alin. (3)",
+      "aspect": "forță majoră",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R62",
+      "resource": "R",
+      "locator": "Art. 28 alin. (2)",
+      "aspect": "semnătură electronică",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R63",
+      "resource": "R",
+      "locator": "Art. 29 alin. (1)",
+      "aspect": "Documentele de diagnoză",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R64",
+      "resource": "R",
+      "locator": "Art. 30 alin. (2)",
+      "aspect": "primele patru săptămâni",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R65",
+      "resource": "R",
+      "locator": "Art. 33 alin. (3)",
+      "aspect": "se transmit, în format electronic",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R66",
+      "resource": "R",
+      "locator": "Art. 36",
+      "aspect": "responsabilitățile, termenele",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R67",
+      "resource": "R",
+      "locator": "Art. 37",
+      "aspect": "organigrama",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R68",
+      "resource": "R",
+      "locator": "Art. 38 alin. (3)",
+      "aspect": "contractului individual de muncă",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R69",
+      "resource": "R",
+      "locator": "Art. 39 alin. (4)",
+      "aspect": "viața intimă, privată sau familială",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R70",
+      "resource": "R",
+      "locator": "Art. 45",
+      "aspect": "certificatul de integritate comportamentală",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R71",
+      "resource": "R",
+      "locator": "Art. 49 alin. (4)",
+      "aspect": "alte activități decât cele necesare",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R72",
+      "resource": "R",
+      "locator": "Art. 53",
+      "aspect": "Codul muncii",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R73",
+      "resource": "R",
+      "locator": "Art. 56",
+      "aspect": "dosarul cu anexele",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R74",
+      "resource": "R",
+      "locator": "Art. 57",
+      "aspect": "în fiecare interval de cursuri",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R75",
+      "resource": "R",
+      "locator": "Art. 58",
+      "aspect": "cel puțin două ori pe an",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R76",
+      "resource": "R",
+      "locator": "Art. 72",
+      "aspect": "propus prin vot",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R77",
+      "resource": "R",
+      "locator": "Art. 73",
+      "aspect": "program de lucru cu elevii",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R78",
+      "resource": "R",
+      "locator": "Art. 79",
+      "aspect": "actualizează programul anual",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R79",
+      "resource": "R",
+      "locator": "Art. 89",
+      "aspect": "nu dețin un cod numeric personal",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R80",
+      "resource": "R",
+      "locator": "Art. 92",
+      "aspect": "înscriși de drept",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R81",
+      "resource": "R",
+      "locator": "Art. 94",
+      "aspect": "mijloc de coerciție",
+      "usedArticleBefore": true
+    },
+    {
+      "id": "R82",
+      "resource": "R",
+      "locator": "Art. 95 alin. (4)",
+      "aspect": "SPAS/DAS",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R83",
+      "resource": "R",
+      "locator": "Art. 108",
+      "aspect": "va desemna un cadru didactic",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R84",
+      "resource": "R",
+      "locator": "Art. 110",
+      "aspect": "frecvența cea mai mare",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R85",
+      "resource": "R",
+      "locator": "Art. 116",
+      "aspect": "media cel puțin 6",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R86",
+      "resource": "R",
+      "locator": "Art. 117",
+      "aspect": "cel puțin 50%",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R87",
+      "resource": "R",
+      "locator": "Art. 118",
+      "aspect": "termen de 5 zile",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R88",
+      "resource": "R",
+      "locator": "Art. 126",
+      "aspect": "nu rămâne valabilă",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R89",
+      "resource": "R",
+      "locator": "Art. 130",
+      "aspect": "nu se acordă reexaminare",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R90",
+      "resource": "R",
+      "locator": "Art. 131",
+      "aspect": "conflict care ar putea vicia",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R91",
+      "resource": "R",
+      "locator": "Art. 132",
+      "aspect": "de două ori mai mare",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R92",
+      "resource": "R",
+      "locator": "Art. 134",
+      "aspect": "7 zile lucrătoare",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R93",
+      "resource": "R",
+      "locator": "Art. 148",
+      "aspect": "comisia de orientare școlară",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R94",
+      "resource": "R",
+      "locator": "Art. 154",
+      "aspect": "procedurii de acces",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R95",
+      "resource": "R",
+      "locator": "Art. 156",
+      "aspect": "inspectoratului școlar",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R96",
+      "resource": "R",
+      "locator": "Art. 161",
+      "aspect": "jumătate plus unu din totalul",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R97",
+      "resource": "R",
+      "locator": "Art. 165",
+      "aspect": "drepturi suplimentare",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R98",
+      "resource": "R",
+      "locator": "Art. 166",
+      "aspect": "nu are dreptul de a colecta",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R99",
+      "resource": "R",
+      "locator": "Art. 167",
+      "aspect": "ședința se reconvoacă",
+      "usedArticleBefore": false
+    },
+    {
+      "id": "R100",
+      "resource": "R",
+      "locator": "Art. 179",
+      "aspect": "asigurarea transportului",
+      "usedArticleBefore": false
+    }
+  ]
+}
