@@ -16,6 +16,6 @@ Site static, fără instalare: `index.html`, `app.css`, `app.js`, `bank.js`. Pen
 
 `node verify.cjs` verifică ascunderea soluțiilor, punctajul, reluarea, limita de timp și tipărirea. `node finalize_bank.cjs` reconstruiește variantele alfabetice și validează distribuția, unicitatea și structura băncii. `bank.unsorted.json` este sursa editabilă, cu răspunsul corect în prima poziție; nu schimbați direct pozițiile din `bank.js`.
 
-Antrenamentul personalizat permite alegerea uneia sau mai multor resurse și a numărului de itemi (10, 20, 30, 40, 50). Fiecare întrebare afișează materialul de proveniență. Distribuția fixă 5/5/4/2/2/2 se aplică testelor numerotate; seturile personalizate folosesc exclusiv selecția utilizatorului.
+Antrenamentul personalizat permite alegerea uneia sau mai multor resurse și a numărului de itemi (10–100, din 10 în 10, sau toți itemii din materialele selectate). Fiecare întrebare afișează materialul de proveniență. Distribuția fixă 5/5/4/2/2/2 se aplică testelor numerotate; seturile personalizate folosesc exclusiv selecția utilizatorului.
 
 Platformă: Prof. dr. Maria-Magdalena Dorcioman · Colegiul Național „Dinicu Golescu”.
