@@ -1,0 +1,5 @@
+const fs=require('fs'),path=require('path');const root=__dirname;
+const bank=JSON.parse(fs.readFileSync(path.join(root,'bank.unsorted.json'),'utf8'));
+const ids=new Set(),prompts=new Set(),positions=[0,0,0,0];
+for(const test of bank.tests){const counts={};if(test.items.length!==20)throw Error('20 items');for(const q of test.items){if(ids.has(q.id)||prompts.has(q.prompt))throw Error('Duplicate');ids.add(q.id);prompts.add(q.prompt);counts[q.theme]=(counts[q.theme]||0)+1;const key=q.options[q.answer];q.options.sort((a,b)=>a.localeCompare(b,'ro',{sensitivity:'base'}));q.answer=q.options.indexOf(key);positions[q.answer]++;if(new Set(q.options).size!==4||!q.source.quote||!q.explanation)throw Error(q.id);if(/semestr/i.test(q.prompt+' '+q.options.join(' ')))throw Error('Semester '+q.id);}for(const [k,v] of Object.entries(bank.distribution))if(counts[k]!==v)throw Error('Distribution');}
+fs.writeFileSync(path.join(root,'bank.json'),JSON.stringify(bank,null,2));fs.writeFileSync(path.join(root,'bank.js'),'window.SITUATIONAL = '+JSON.stringify(bank)+';\n');console.log({tests:bank.tests.length,items:ids.size,positions});
